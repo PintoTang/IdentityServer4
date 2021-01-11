@@ -1,0 +1,9 @@
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\netcoreapp3.1\IdentityServer.Model.deps.json
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\netcoreapp3.1\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\netcoreapp3.1\IdentityServer.Model.pdb
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\netcoreapp3.1\IdentityServer.Model.csprojAssemblyReference.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\netcoreapp3.1\IdentityServer.Model.AssemblyInfoInputs.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\netcoreapp3.1\IdentityServer.Model.AssemblyInfo.cs
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\netcoreapp3.1\IdentityServer.Model.csproj.CoreCompileInputs.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\netcoreapp3.1\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\netcoreapp3.1\IdentityServer.Model.pdb

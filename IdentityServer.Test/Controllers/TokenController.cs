@@ -38,23 +38,23 @@ namespace IdentityServer.Test.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet("GetToken")]
-        public async Task<string> GetToken()
+        public async Task<TokenResponse> GetToken()
         {
             var client = new HttpClient();
             var tokenResponse = await client.RequestPasswordTokenAsync(new PasswordTokenRequest
             {
                 Address = "http://localhost:5000/connect/token",
                 ClientId = "client",
-                ClientSecret = "secret",
+                ClientSecret = "secret",                
                 Scope = "api1",
                 UserName = "test",
                 Password = "123456",
             });
             if (tokenResponse.IsError)
             {
-                return tokenResponse.Error;
+                return tokenResponse;
             }
-            return tokenResponse.AccessToken;
+            return tokenResponse;
         }
 
     }

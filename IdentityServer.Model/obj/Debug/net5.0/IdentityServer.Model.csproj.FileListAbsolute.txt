@@ -1,0 +1,11 @@
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\net5.0\IdentityServer.Model.deps.json
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\net5.0\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\net5.0\ref\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\bin\Debug\net5.0\IdentityServer.Model.pdb
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.AssemblyInfoInputs.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.AssemblyInfo.cs
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.csproj.CoreCompileInputs.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\ref\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.pdb

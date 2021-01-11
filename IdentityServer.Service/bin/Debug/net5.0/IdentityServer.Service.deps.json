@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IdentityServer.Service/1.0.0": {
+        "dependencies": {
+          "IdentityServer.IService": "1.0.0",
+          "SqlSugarTool": "1.0.0.0"
+        },
+        "runtime": {
+          "IdentityServer.Service.dll": {}
+        }
+      },
+      "IdentityServer.IService/1.0.0": {
+        "dependencies": {
+          "IdentityServer.Model": "1.0.0"
+        },
+        "runtime": {
+          "IdentityServer.IService.dll": {}
+        }
+      },
+      "IdentityServer.Model/1.0.0": {
+        "runtime": {
+          "IdentityServer.Model.dll": {}
+        }
+      },
+      "SqlSugarTool/1.0.0.0": {
+        "runtime": {
+          "SqlSugarTool.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdentityServer.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentityServer.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentityServer.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SqlSugarTool/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

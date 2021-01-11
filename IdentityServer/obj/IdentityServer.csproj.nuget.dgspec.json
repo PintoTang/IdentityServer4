@@ -4,14 +4,72 @@
     "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj": {
+    "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
-        "projectName": "IdentityServer",
-        "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
+        "projectUniqueName": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj",
+        "projectName": "IdentityServer.IService",
+        "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj",
         "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-        "outputPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\obj\\",
+        "outputPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj": {
+                "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj",
+        "projectName": "IdentityServer.Model",
+        "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj",
+        "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
+        "outputPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,10 +97,144 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Service\\IdentityServer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Service\\IdentityServer.Service.csproj",
+        "projectName": "IdentityServer.Service",
+        "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Service\\IdentityServer.Service.csproj",
+        "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
+        "outputPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj": {
+                "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
+        "projectName": "IdentityServer",
+        "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
+        "outputPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj": {
+                "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.IService\\IdentityServer.IService.csproj"
+              },
+              "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj": {
+                "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Model\\IdentityServer.Model.csproj"
+              },
+              "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Service\\IdentityServer.Service.csproj": {
+                "projectPath": "D:\\MyGitHub\\IdentityServer4\\IdentityServer.Service\\IdentityServer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "IdentityServer4": {
               "target": "Package",
               "version": "[4.1.1, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.1.7, )"
             }
           },
           "imports": [

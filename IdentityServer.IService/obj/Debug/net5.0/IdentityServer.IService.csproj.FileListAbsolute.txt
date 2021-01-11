@@ -1,0 +1,15 @@
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\bin\Debug\net5.0\IdentityServer.IService.deps.json
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\bin\Debug\net5.0\IdentityServer.IService.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\bin\Debug\net5.0\ref\IdentityServer.IService.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\bin\Debug\net5.0\IdentityServer.IService.pdb
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\bin\Debug\net5.0\IdentityServer.Model.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\bin\Debug\net5.0\IdentityServer.Model.pdb
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.csprojAssemblyReference.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.AssemblyInfoInputs.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.AssemblyInfo.cs
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.csproj.CoreCompileInputs.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.csproj.CopyComplete
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\ref\IdentityServer.IService.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.IService\obj\Debug\net5.0\IdentityServer.IService.pdb

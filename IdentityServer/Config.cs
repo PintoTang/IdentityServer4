@@ -31,7 +31,11 @@ namespace IdentityServer
                   ClientId="client",//定义客户端ID
                   ClientSecrets={ new Secret("secret".Sha256()) },//定义客户端秘钥
                   AllowedGrantTypes=GrantTypes.ResourceOwnerPassword,//授权方式为用户密码模式授权
-                  AllowedScopes={ "api1" }//AllowedScopes必须是ApiScopes中的值，否则报"invalid_scope"错误 
+                  AllowedScopes={ "api1" },//AllowedScopes必须是ApiScopes中的值，否则报"invalid_scope"错误
+                  AccessTokenLifetime=3600,
+                  SlidingRefreshTokenLifetime=2592000,
+                  RefreshTokenExpiration=TokenExpiration.Sliding,
+                  AllowOfflineAccess=true
                 }
               };
         }

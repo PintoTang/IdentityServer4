@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentityServer.IService\IdentityServer.IService.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SqlSugarTool">
+      <HintPath>..\..\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

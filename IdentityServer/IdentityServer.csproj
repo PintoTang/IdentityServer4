@@ -5,7 +5,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
     <PackageReference Include="IdentityServer4" Version="4.1.1" />
+    <PackageReference Include="SqlSugarCore" Version="5.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentityServer.IService\IdentityServer.IService.csproj" />
+    <ProjectReference Include="..\IdentityServer.Model\IdentityServer.Model.csproj" />
+    <ProjectReference Include="..\IdentityServer.Service\IdentityServer.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SqlSugarTool">
+      <HintPath>..\..\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

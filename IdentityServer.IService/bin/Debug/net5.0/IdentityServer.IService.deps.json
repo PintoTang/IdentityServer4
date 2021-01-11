@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IdentityServer.IService/1.0.0": {
+        "dependencies": {
+          "IdentityServer.Model": "1.0.0"
+        },
+        "runtime": {
+          "IdentityServer.IService.dll": {}
+        }
+      },
+      "IdentityServer.Model/1.0.0": {
+        "runtime": {
+          "IdentityServer.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdentityServer.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentityServer.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
