@@ -9,3 +9,4 @@ D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer
 D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.dll
 D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\ref\IdentityServer.Model.dll
 D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.pdb
+D:\MyGitHub\IdentityServer4\IdentityServer.Model\obj\Debug\net5.0\IdentityServer.Model.csprojAssemblyReference.cache

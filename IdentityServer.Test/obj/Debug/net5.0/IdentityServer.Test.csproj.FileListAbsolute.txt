@@ -39,3 +39,7 @@ D:\MyGitHub\IdentityServer4\IdentityServer.Test\obj\Debug\net5.0\ref\IdentitySer
 D:\MyGitHub\IdentityServer4\IdentityServer.Test\obj\Debug\net5.0\IdentityServer.Test.pdb
 D:\MyGitHub\IdentityServer4\IdentityServer.Test\obj\Debug\net5.0\IdentityServer.Test.genruntimeconfig.cache
 D:\MyGitHub\IdentityServer4\IdentityServer.Test\obj\Debug\net5.0\IdentityServer.Test.csprojAssemblyReference.cache
+D:\MyGitHub\IdentityServer4\IdentityServer.Test\bin\Debug\net5.0\EasyCaching.Core.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Test\bin\Debug\net5.0\EasyCaching.InMemory.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Test\bin\Debug\net5.0\Nacos.dll
+D:\MyGitHub\IdentityServer4\IdentityServer.Test\bin\Debug\net5.0\Nacos.AspNetCore.dll

@@ -62,17 +62,5 @@ namespace IdentityServer
             };
         }
 
-        public static List<TestUser> GetUsers()
-        {
-            return new List<TestUser>
-             {
-                 new TestUser
-                 {
-                     Username = "test",
-                     Password = "123456",
-                     SubjectId = "1"
-                 }
-             };
-        }
     }
 }
